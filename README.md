@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DistroReviewsTech
+- 👀 I’m interested in everything Linux and open-source
+- 🌱 I’m currently making videos on YouTube and Odysee
